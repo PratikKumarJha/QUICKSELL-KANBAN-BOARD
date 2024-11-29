@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QUICKSELL-KANBAN-BOARD/static/css/main.5d3a9670.css",
+    "main.js": "/QUICKSELL-KANBAN-BOARD/static/js/main.50aa196b.js",
+    "index.html": "/QUICKSELL-KANBAN-BOARD/index.html",
+    "main.5d3a9670.css.map": "/QUICKSELL-KANBAN-BOARD/static/css/main.5d3a9670.css.map",
+    "main.50aa196b.js.map": "/QUICKSELL-KANBAN-BOARD/static/js/main.50aa196b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d3a9670.css",
+    "static/js/main.50aa196b.js"
+  ]
+}
